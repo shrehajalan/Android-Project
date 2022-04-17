@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/drawer_layout">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <include layout="@layout/toolbar"
+                android:id="@+id/toolbar_homepage"/>
+        </LinearLayout>
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation = "horizontal"
+        android:weightSum="5">
+
+        <com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner
+            android:id="@+id/android_spinner"
+            android:layout_width="0dp"
+            android:layout_weight="4"
+            android:layout_height="wrap_content"
+            android:hint="Select Category "
+            android:textColorHint="#d10e3b"
+            app:met_floatingLabel="normal"
+            android:background="@drawable/rectangle_grey"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/homepageButton"
+            android:textColor="@color/Black"
+            android:background="@drawable/rectangle_grey"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_margin="5dp"
+            android:id="@+id/homepageButton"/>
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/view_pager_homepage"
+            android:layout_width="match_parent"
+            android:layout_height = "match_parent"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="0dp" />
+
+
+        <LinearLayout
+            android:id="@+id/layout_dots_homepage"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="40dp"
+            android:gravity="center"
+            android:orientation="horizontal" />
+    </RelativeLayout>
+
+</LinearLayout>
+
+    <android.support.design.widget.NavigationView
+        app:headerLayout="@layout/drawerheader"
+        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:background="@color/White"
+        app:itemTextColor="@color/dark_grey"
+        app:itemIconTint="@color/dark_grey"
+        app:menu = "@menu/drawer_menu"
+        android:layout_gravity="start|left"
+        android:id="@+id/navigation_view">
+    </android.support.design.widget.NavigationView>
+
+</android.support.v4.widget.DrawerLayout>
+

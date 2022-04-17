@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/actionbar_for_viewcart"
+        android:id="@+id/toolbar_view_cart_items"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/place_order_btn"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:text="PLACE ORDER"
+        android:layout_alignParentBottom="true"
+        android:textColor="@color/Golden"
+        android:background="@color/Black"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_margin="5dp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/cart_rv"
+        android:layout_margin="5dp">
+    </android.support.v7.widget.RecyclerView>
+
+
+</RelativeLayout>

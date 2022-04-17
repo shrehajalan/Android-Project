@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VH</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="homepageButton">Next</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="admin_mail">dineshjalan@gmail.com</string>
+    <string name="admin_username">dinesh</string>
+</resources>

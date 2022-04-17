@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    package="com.example.vhsince81">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <receiver android:name=".VHReceiver"
+                  android:enabled="true">
+                  <intent-filter>
+                    <action android:name="android.net.com.CONNECTIVITY_CHANGE"></action>
+                    <action android:name="android.net.wifi.WIFI_STATE_CHANGE"></action>
+                  </intent-filter>
+        </receiver>
+
+
+        <activity android:name=".CheckActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Signup_form" />
+        <activity android:name=".HomePage" />
+        <activity android:name=".CategoryListDisplay" />
+        <activity android:name=".SelectedProductItemDisplay"/>
+        <activity android:name=".View_Cart_Items"/>
+        <activity android:name=".AdminHomePage" />
+        <activity android:name=".MainActivity" />
+        <service android:name=".ListenOrder"/>
+        <activity android:name=".SplashScreen" />
+        <activity android:name=".DisplayOrderDetails" />
+
+
+    </application>
+
+</manifest>

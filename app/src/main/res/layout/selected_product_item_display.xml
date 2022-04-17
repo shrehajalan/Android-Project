@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/relative">
+
+    <include layout="@layout/toolbar"
+        android:id="@+id/toolbar_selectedProductItem"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+            android:id="@+id/product_ll1"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/light_grey">
+
+
+            <ImageView
+                android:id="@+id/product_imageview"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/img1" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/product_desc"
+                android:padding="2dp"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/product_value"
+                android:padding="2dp"
+                android:textSize="12sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation = "vertical"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/product_ll2"
+            android:visibility="gone"
+            android:background="@color/light_grey"
+            android:padding="5dp">
+
+            <com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner
+                android:id="@+id/android_spinner_socks"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Select the Pack "
+                android:textColorHint="#d10e3b"
+                app:met_floatingLabel="normal"
+                android:background="@drawable/rectangle_grey"
+                android:layout_margin="5dp"
+                android:padding="5dp"/>
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="3dp"
+                android:id="@+id/product_rv1">
+            </android.support.v7.widget.RecyclerView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/product_ll4"
+            android:visibility="gone"
+            android:padding="5dp"
+            android:background="@color/light_grey">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/product_size_text"/>
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="3dp"
+                android:id="@+id/product_rv3">
+            </android.support.v7.widget.RecyclerView>
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation = "vertical"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/product_ll5"
+            android:visibility="gone"
+            android:background="@color/light_grey"
+            android:padding="5dp">
+
+            <com.weiwangcn.betterspinner.library.material.MaterialBetterSpinner
+                android:id="@+id/android_spinner_color"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Select the Type "
+                android:textColorHint="#d10e3b"
+                app:met_floatingLabel="normal"
+                android:background="@drawable/rectangle_grey"
+                android:layout_margin="5dp"
+                android:padding="5dp"/>
+
+                <android.support.v7.widget.RecyclerView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="3dp"
+                    android:layout_marginTop="3dp"
+                    android:id="@+id/product_rv4">
+                </android.support.v7.widget.RecyclerView>
+        </LinearLayout>
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:orientation="vertical"
+             android:layout_marginBottom="10dp"
+             android:id="@+id/product_ll6"
+             android:layout_marginTop="10dp"
+             android:background="@color/light_grey"
+             android:padding="5dp">
+
+             <TextView
+                 android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/product_price_heading"
+                 android:layout_marginBottom="3dp"
+                 android:layout_marginTop="3dp"
+                 android:textStyle="bold"/>
+
+             <TextView
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:id="@+id/product_price"
+                 android:layout_marginTop="3dp"
+                 android:layout_marginBottom="3dp"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/product_ll7"
+            android:background="@color/White"
+            android:outlineAmbientShadowColor="@color/light_grey"
+            android:padding="5dp">
+
+            <Button
+                android:id="@+id/add_btn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/complete_round_button"
+                android:padding="2dp"
+                android:text="+"
+                android:textSize="30dp" />
+            <TextView
+                android:layout_width="60dp"
+                android:layout_height="match_parent"
+                android:id="@+id/number_btn"
+                android:padding="2dp"
+                android:textSize="30dp"
+                android:textAlignment="center"/>
+
+            <Button
+                android:id="@+id/minus_btn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/complete_round_button"
+                android:padding="2dp"
+                android:text="-"
+                android:textSize="30dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+    </ScrollView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ADD TO CART"
+            android:id="@+id/add_2_cart"
+            android:background="@color/Black"
+            android:textColor="@color/Golden"
+            android:padding="4dp"
+            android:layout_alignParentBottom="true" />
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

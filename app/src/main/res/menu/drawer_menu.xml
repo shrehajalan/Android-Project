@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context = "com.example.vhsince81.HomePage">
+    <item
+        android:id = "@+id/order_history"
+        android:title = "Order History"
+        android:icon = "@drawable/orderhistory_image"/>
+    <item
+        android:id = "@+id/logout"
+        android:title = "Logout"
+        android:icon = "@drawable/logout_image"/>
+</menu>

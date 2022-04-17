@@ -1,0 +1,764 @@
+
+{
+  "PRODUCTS":[
+    {
+  
+    "title": "SOCKS",
+    "data" : [
+      {
+        "Style_id": "91001",
+        "src":"@drawable/socks_homeimage8",
+        "availble_Colors_Pack_Of_1":["BEIGE","BLACK","OCHRE","COAL GREY","LT GREY","NAVY"],
+        "availble_Colors_Pack_Of_3":["BEIGE/BLACK/NAVY","LT GREY/NAVY/BLACK","COAL GREY/NAVY BLACK","COAL GREY/BLACK/OCHRE","LT GREY/COAL GREY/NAVY"],
+        "availble_sizes":[],
+        "availble_colors":[],
+        "availble_print_colors":[],
+        "prices":["139","407"]
+      },
+      {
+        "Style_id": "91002",
+        "src":"@drawable/socks_homeimage9",
+        "availble_Colors_Pack_Of_1":["NAVY","BLACK","WHITE","CHARCOAL MEL","GREY MEL"],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_sizes":[],
+        "availble_colors":[],
+        "availble_print_colors":[],
+        "prices":["119"]
+
+      },
+      {
+        "Style_id": "91003",
+        "src":"@drawable/socks_homeimage10",
+        "availble_Colors_Pack_Of_1":["NAVY","BLACK","WHITE","CHARCOAL MEL","GREY MEL"],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_sizes":[],
+        "availble_colors":[],
+         "availble_print_colors":[],
+        "prices":["109"]
+        
+      },
+       {
+         "Style_id": "91004",
+         "src":"@drawable/socks_homeimage11",
+         "availble_Colors_Pack_Of_1":["COMBO 1","COMBO 2","COMBO 3","COMBO 4","COMBO5"],
+         "availble_Colors_Pack_Of_3":[],
+         "availble_sizes":[],
+         "availble_colors":[],
+         "availble_print_colors":[],
+         "prices":["149"]
+  
+      },
+      {
+        "Style_id": "94001",
+        "src":"@drawable/socks_homeimage14",
+        "availble_Colors_Pack_Of_1":["BLACK","CHARCOAL MEL","GREY MEL","NAVY","WHITE"],
+        "availble_Colors_Pack_Of_3":["BLACK/CHARCOAL MEL/GREY MEL","NAVY/CHARCOAL MEL/GREY MEL","NAVY/BLACK/GREY MEL","NAVY/BLACK/CHARCOAL MEL","WHITE(PACK OF 3)"],
+        "availble_sizes":[],
+        "availble_colors":[],
+        "availble_print_colors":[],
+        "prices":["149","427"]
+  
+      },
+      {
+        "Style_id": "94002",
+        "src":"@drawable/socks_homeimage15",
+        "availble_Colors_Pack_Of_1":["BLACK","CHARCOAL MEL","GREY MEL","NAVY","WHITE"],
+        "availble_Colors_Pack_Of_3":["BLACK/CHARCOAL MEL/GREY MEL","NAVY/CHARCOAL MEL/GREY MEL","NAVY/BLACK/GREY MEL","NAVY/BLACK/CHARCOAL MEL","WHITE(PACK OF 3)"],
+        "availble_sizes":[],
+        "availble_colors":[],
+        "availble_print_colors":[],
+        "prices":["149","427"]
+  
+      },
+      {
+        "Style_id": "94003",
+        "src":"@drawable/socks_homeimage16",
+        "availble_Colors_Pack_Of_1":["BLACK","CHARCOAL MEL","GREY MEL","NAVY","WHITE"],
+        "availble_Colors_Pack_Of_3":["BLACK/CHARCOAL MEL/GREY MEL","NAVY/CHARCOAL MEL/GREY MEL","NAVY/BLACK/GREY MEL","NAVY/BLACK/CHARCOAL MEL","WHITE(PACK OF 3)"],
+        "availble_sizes":[],
+        "availble_colors":[],
+        "availble_print_colors":[],
+        "prices":["149","427"]
+  
+      },
+       {
+         "Style_id": "94004",
+         "src":"@drawable/socks_homeimage17",
+         "availble_Colors_Pack_Of_1":["BLACK","CHARCOAL MEL","GREY MEL","NAVY","WHITE"],
+         "availble_Colors_Pack_Of_3":[],
+         "availble_sizes":[],
+         "availble_colors":[],
+         "availble_print_colors":[],
+         "prices":["149"]
+  
+      }]
+      
+    },
+{
+    "title" : "VH_ACTIVE_WEAR_MEN",
+    "data":[
+    {
+        "Style_id": "51001",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL","XXL"],
+        "availble_colors":["BLACK","NAVY","GREY MELANGE"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    },
+     {
+       "Style_id": "51002",
+       "src":"@drawable/Vh_active_wear_men_homeimage3.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["BLACK","NAVY","ANTHRA"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+        "Style_id": "51041",
+       "src":"@drawable/Vh_active_wear_men_homeimage4.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["BLACK","NAVY","GREY MELANGE"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "51042",
+       "src":"@drawable/Vh_active_wear_men_homeimage5.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["BLACK","NAVY","ANTHRA"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "61001",
+       "src":"@drawable/Vh_active_wear_men_homeimage6.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["GREY","NAVY","WINE"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+        "Style_id": "61002",
+       "src":"@drawable/Vh_active_wear_men_homeimage7.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["NAUTICAL BLUE","NAVY","TEAL","GRAPHITE","BLACK"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "61003",
+       "src":"@drawable/Vh_active_wear_men_homeimage8.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["BLACK","NAVY"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+        "Style_id": "61004",
+       "src":"@drawable/Vh_active_wear_men_homeimage9.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["GREY COMBO","BLUE COMBO"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+    {
+      "Style_id": "61081",
+      "src":"@drawable/Vh_active_wear_men_homeimage11.JPG",
+      "availble_sizes":["S","M","L","XL","XXL"],
+      "availble_colors":["BLACK","NAVY","GREY"],
+      "availble_Colors_Pack_Of_1":[],
+      "availble_Colors_Pack_Of_3":[],
+      "availble_print_colors":[],
+      "prices":[]
+    },
+    {
+      "Style_id": "61082",
+      "src":"@drawable/Vh_active_wear_men_homeimage12.JPG",
+      "availble_sizes":["S","M","L","XL","XXL"],
+      "availble_colors":["BLACK","NAVY","GREY"],
+      "availble_Colors_Pack_Of_1":[],
+      "availble_Colors_Pack_Of_3":[],
+      "availble_print_colors":[],
+      "prices":[]
+    },
+    {
+      "Style_id": "81001",
+      "src":"@drawable/Vh_active_wear_men_homeimage13.JPG",
+      "availble_sizes":["S","M","L","XL"],
+      "availble_colors":["BLACK","BLUE","GREY"],
+      "availble_Colors_Pack_Of_1":[],
+      "availble_Colors_Pack_Of_3":[],
+      "availble_print_colors":[],
+      "prices":[]
+    },
+    {
+      "Style_id": "81002",
+      "src":"@drawable/Vh_active_wear_men_homeimage14.JPG",
+      "availble_sizes":["S","M","L","XL","XXL"],
+      "availble_colors":["GREY","BLUE"],
+      "availble_Colors_Pack_Of_1":[],
+      "availble_Colors_Pack_Of_3":[],
+      "availble_print_colors":[],
+      "prices":[]
+    }
+    ]
+    
+},
+{
+  "title" : "VH_WOMEN_ATHLEISURE",
+   "data":[
+    {
+      "Style_id": "55302",
+      "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+      "availble_sizes":["S","M","L","XL","XXL"],
+      "availble_colors":["PURE BLACK","BURGANDY","LT.PINK MELANGE","GREY MELANGE","DARK NAVY"],
+      "availble_Colors_Pack_Of_1":[],
+      "availble_Colors_Pack_Of_3":[],
+      "availble_print_colors":[],
+      "prices":["1049","1049","1049","1049","1049"]
+    },
+     {
+       "Style_id": "55303",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["PURE BLACK","BURGANDY","ONION MELANGE","LT.GREY MELANGE","DARK NAVY"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":["759","759","759","769","769"]
+    },
+     {
+       "Style_id": "55304",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["PURE BLACK","BURGANDY","ONION MELANGE","LT.GREY MELANGE","DARK NAVY"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "55306",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["LNG-1","LNG-2","LNG-3","LNG-4","LNG-5"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "55307",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["LNG-6","LNG-7","LNG-8","LNG-9","LNG-10"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "55401",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+
+
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["PURE BLACK","PEACOCK BLUE","LT.GREY MELANGE","BURNT UMBER","LT.PINK MELANGE"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "55302",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["PURE BLACK","PINK BLUSH","DENIM MELANGE","CORAL","AMPARO BLUE"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "55403",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["PURE BLACK","PEACH PLUM","CANDY CORAL","GRAPHITE","DEEP SEA NAVY"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "55404",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["PURE BLACK","PEACH PLUM","CANDY CORAL","GRAPHITE","DEEP SEA NAVY"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "55501",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["LNG-1","LNG-2","LNG-3","LNG-4","LNG-5"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "55502",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["LNG-6","LNG-7","LNG-8","LNG-9","LNG-10"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "66301",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["AST-1","AST-2","AST-3","AST-4"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "66302",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["PURE BLACK","CHARCOAL MELANGE","CORAL","DARK NAVY"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "66303",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["NAVY","PINK BLUISH","MAROON"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "66306",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["CHARCOAL MELANGE","DARK NAVY"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    }, {
+       "Style_id": "66601",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["PURE BLACK","PINK BLUSH","CHARCOAL MELANGE","GREY MELANGE"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+    {
+       "Style_id": "66602",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["NAVY","PINK BLUISH","MAROON"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    }]
+},
+
+{  "title": "FINAL_ATHLEISURE_MEN",
+   "data" : [
+  {
+       "Style_id": "50001",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["NAVY","GRAPHITE","BLACK","CHARCOAL MEL.","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "50002",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["NAVY","BLUE MEL.","BLACK","CHARCOAL MEL.","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "50042",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["GREY MEL.","CHARCOAL MEL.","BLACK"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "50043",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["BLUE MEL.","GRAPHITE","BLACK","CHARCOAL MEL.","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "50044",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["GREY MEL.","BLACK","CHARCOAL MEL.","GBLUE MEL.","MOSS GREEN"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "50051",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["NAVY","BLUE MEL.","BLACK","CHARCOAL MEL.","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "50052",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["NAVY","BLUE MEL.","BLACK","CHARCOAL MEL.","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "50054",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["BLUE MEL.","BLACK","CHARCOAL MEL.","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "50061",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["ASP01","ASP04","ASP06","ASP07","ASP08"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "50082",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["APP-03","APP-06","APP-07","APP-08","APP-09"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "60001",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["SCARLET SAGE","SCUBA BLUE","LAPIS BLUE","BRICK RUST","BLUE MEL.","DEEP SEA","PORT WINE","BLACK","CHARCOAL MEL.","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "60021",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["SCARLET SAGE","SCUBA BLUE","LAPIS BLUE","BRICK RUST","BLUE MEL.","DEEP SEA","PORT WINE","BLACK","CHARCOAL MEL.","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "60032",
+       "src":"drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["LAPIS BLUE","WINE","BLACK","WHITE","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "60033",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["NAVY","DEEP SEA","BLACK","RACING RED","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "60034",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["WHITE"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "60035",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["WHITE"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "60071",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["NAVY","TOMATO","BLACK","WHITE","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "60072",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["TOMATO/GREY MEL.","GREY MEL./BLACK","BLACK/TOMATO","WHITE/GREY MEL.","NAVY/GREY MEL.","TOMATO/BLACK","GREY MEL./TOMATO","BLACK/GREY MEL.","WHITE/NAVY","NAVY/TOMATO"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "60074",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["NAVY","BLACK","WHITE","SCARLET SAGE","LAPIS BLUE"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "60076",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["NAVY","MILITARY","BLACK","CHARCOAL MEL.","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+    {
+       "Style_id": "60077",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["NAVY","WHITE","BLACK","TOMATO","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+    {
+       "Style_id": "60078",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL","XXL"],
+       "availble_colors":["GREEN MEL.","RED MEL.","CHARCOAL MEL.","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+    {
+       "Style_id": "60081",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["NAVY","WHITE","BLACK","TOMATO","GREY MEL."],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+     {
+       "Style_id": "60091",
+       "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+       "availble_sizes":["S","M","L","XL"],
+       "availble_colors":["CHARCOAL"],
+       "availble_Colors_Pack_Of_1":[],
+       "availble_Colors_Pack_Of_3":[],
+       "availble_print_colors":[],
+       "prices":[]
+    },
+    {
+        "Style_id": "50045",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL"],
+        "availble_colors":["NAVY","GREY","BLACK"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    },
+   {
+        "Style_id": "50046",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL"],
+        "availble_colors":["NAVY PRINT","GREY PRINT"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    },
+    {
+        "Style_id": "60023",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL"],
+        "availble_colors":["BLUE","WINE","MILITARY GREEN"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    },
+     {
+        "Style_id": "60024",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL"],
+        "availble_colors":["WILLOW","TEAL","CHARCOAL"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    },
+    {
+        "Style_id": "60024",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL"],
+        "availble_colors":["WILLOW","TEAL","CHARCOAL"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    },
+    {
+        "Style_id": "60026",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL","XXL"],
+        "availble_colors":["WILLOW","TEAL","CHARCOAL"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    },
+    {
+        "Style_id": "60028",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL"],
+        "availble_colors":["GRAY","BLUE","BLACK"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    },
+    {
+        "Style_id": "60029",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL"],
+        "availble_colors":["GREY","CHARCOAL","WINE"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    },
+    {
+        "Style_id": "60030",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL","XXL"],
+        "availble_colors":["GREY","BLUE","BLACK"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    },
+    {
+        "Style_id": "60031",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL"],
+        "availble_colors":["GREY","CHARCOAL","BLUE"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    },
+    {
+        "Style_id": "80001",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL"],
+        "availble_colors":["GREY","BLACK"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    },
+     {
+        "Style_id": "60092",
+        "src":"@drawable/Vh_active_wear_men_homeimage2.JPG",
+        "availble_sizes":["S","M","L","XL"],
+        "availble_colors":["NAVY","BLACK"],
+        "availble_Colors_Pack_Of_1":[],
+        "availble_Colors_Pack_Of_3":[],
+        "availble_print_colors":[],
+        "prices":[]
+    }
+  ]
+}
+]
+}
